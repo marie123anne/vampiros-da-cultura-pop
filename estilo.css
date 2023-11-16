@@ -1,4 +1,6 @@
 body{
     background-color: gray;
-    font-size: medium;
+    font-size: 48px;
+    color: darkred;
+    text-align: center;
 }
