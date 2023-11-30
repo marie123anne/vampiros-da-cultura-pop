@@ -18,3 +18,8 @@ color: rgb(212, 0, 0);
 font-size: 25px;
 font-weight: 700;
 }
+
+#Indicações{
+
+    display: grid;
+}
